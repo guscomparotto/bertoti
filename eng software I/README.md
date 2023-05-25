@@ -25,3 +25,6 @@ Tempo para implementar, auditoria, revisão constante de ferramenteas e atualiza
 Preocupação com implementação em vários dispositivos diferentes, revisão constante / Alcance de maior n° de usuários/</p>
 
 <h2>Diagrama de classes</h2>
+
+![diagrama](https://github.com/guscomparotto/bertoti/assets/111641203/6b755631-0b4f-4c4a-b1cf-32d949040875)
+
