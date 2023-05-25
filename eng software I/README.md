@@ -23,3 +23,5 @@ Tempo para implementar, auditoria, revisão constante de ferramenteas e atualiza
 
 <p>Portabilidade:
 Preocupação com implementação em vários dispositivos diferentes, revisão constante / Alcance de maior n° de usuários/</p>
+
+<h2>Diagrama de classes</h2>
